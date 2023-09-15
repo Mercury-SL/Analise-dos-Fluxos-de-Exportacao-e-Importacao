@@ -6,7 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Projeto](#projeto)
+* [Projeto](#projeto (API))
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#Funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
@@ -31,7 +31,9 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+<div align="center">
+ <img src="https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/f53788a7-0fbb-4821-99fb-6073ad927dc0.jpg" width="600px") />
+</div>
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
