@@ -6,7 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Projeto](#projeto)
+* [Projeto](#projeto(API))
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#Funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
@@ -109,44 +109,22 @@ User stories
 
 
 ## Sprint 0. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Criação e organização do Github;
+- [ ] Definição de posições de cada membro;
+- [x] Pesquisa de comprometimento da equipe;
+- [ ] Criação e organização do Jira Software;
+- [ ] Aplicação do 5W2H;
+- [ ] Estudo e compreensão da base de dados;
+- [ ] Reunião final - Sprint 0;
+- [ ] Nivelamento de conhecimento sobre a base de dados;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+
       
 ## Sprint 2. Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
       
 ## Sprint 3. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 
 # Competências desenvolvidas
