@@ -6,7 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Projeto](#projeto(API))
+* [Projeto](#projeto)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#Funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
+# Projeto 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
@@ -36,12 +36,9 @@ Sprint | Previsão | Status| Histórico|
 </div>
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+O projeto tem como objetivo criar uma base de dados relacional e dashboard que permita:
+* Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas;
+* Desenhar a geografia do fluxo da carga para a importação e exportação.
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
@@ -54,13 +51,14 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  > Power BI
 
  ### Tecnológias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
 Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
+- Github
+- Jira
+- Figma
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
  ### Mindset Digital
@@ -68,8 +66,7 @@ Exemplos:
 Exemplos: 
 - Backlog
 - [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
+- 5W2H
 - Scrum para iniciantes
 - [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
 
