@@ -1,8 +1,8 @@
 # Mercury Soluções de Logística
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
+Empresa fundada para realização do projeto integrador do segundo semestre de logistica com finalidade em analisar e correlacionar os dados de importação e exportação para fins academicos.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto com base na metodologia agil SCRUM, que visa promover o desenvolvimento entre os membros proporcionando a proatividade, trabalho em equipe, responsabilidade. Ocasionando a colaboração e Entrega de Resultados dos universitarios enredados.
 
 # Índice
 
