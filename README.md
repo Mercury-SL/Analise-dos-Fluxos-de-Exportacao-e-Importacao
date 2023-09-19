@@ -17,9 +17,7 @@ Projeto com base na metodologia agil SCRUM, que visa promover o desenvolvimento 
 * [Autores](#autores)
 
 # Projeto 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia API para o ensino-aprendizado que tem como estrutura o desenvolvimento de competências e a fundamentação primordial é nos aspectos do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de raciocínio lógico e elaboração de estratégias para analisar as lacunas e conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados obtidos através dos projetos devem obedecer ao Aviso Legal SIC com definição das datas do kickoff e das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
