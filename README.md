@@ -22,8 +22,8 @@ Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00| 25/09/2023 | Em progresso | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01| 16/10/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00| 25/09/2023 | Concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01| 16/10/2023 | Em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 06/11/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/11/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -57,16 +57,17 @@ Exemplos:
 - Github
 - Jira
 - Figma
+- Genially
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
 - Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
 - 5W2H
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+- Scrum
+- 
+[![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
 
 # Cronograma das Sprints
 
@@ -104,17 +105,31 @@ User stories
 
 
 ## Sprint 0. Concepção
-- [ ] Criação e organização do Github;
-- [ ] Definição de posições de cada membro;
+- [x] Criação e organização do Github;
+- [x] Definição de posições de cada membro;
 - [x] Pesquisa de comprometimento da equipe;
-- [ ] Criação e organização do Jira Software;
-- [ ] Aplicação do 5W2H;
+- [x] Criação e organização do Jira Software;
+- [x] Aplicação do 5W2H;
 - [ ] Estudo e compreensão da base de dados;
-- [ ] Reunião final - Sprint 0;
-- [ ] Nivelamento de conhecimento sobre a base de dados;
+- [x] Reunião final - Sprint 0;
+- [x] Nivelamento de conhecimento sobre a base de dados;
 
 ## Sprint 1. Desenvolvimento do Projeto
-
+- [ ] Identificação das principais plataformas de pesquisa;
+- [ ] Elaboração de perguntas para o cliente;
+- [ ] Planejamento do protótipo;
+- [ ] Modelamento de dados dentro da plataforma (Power BI);
+- [ ] Desenvolvimento do protótipo (Equipe);
+- [ ] Atualização do Github;
+- [ ] Definição de uma carga originária de SJC;
+- [ ] Identificação dos produtos mais movimentados e seu detalhamento;
+- [ ] Atualização da documentação;
+- [ ] Pesquisa e definição dos principais termos e conceitos;
+- [ ] Registro dos termos e tecnologias utilizados para o desenvolvimento do projeto;
+- [ ] Estudo e compreensão da base de dados (Equipe);
+- [ ] Nivelamento sobre o objetivo do trabalho (Equipe);
+- [ ] Atualização da apresentação da Sprint;
+- [ ] Reunião Final - Sprint 1;
       
 ## Sprint 2. Implementação
 
@@ -159,9 +174,9 @@ User stories
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner | João Augusto Amaral da Silva |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
 | Scrum Master  | Danubia Mayumi Aihara |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanubiaAihara) |
-| Team Member   | Pedro Calderaro Martins |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-calderaro-175462262/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun) |
-|  Team Member  | Matheus Gustavo Oliveira Cardoso |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theuscards) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1) |
-|  Team Member  | Graziele Cristina de Almeida Santos |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graziele-santos-38407225a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GrazieleAlmeida) |
-|  Team Member  | Denner Miguel de Andrade Lima |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denner-lima-874b65216/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dmiguelima) |
+| Técnico de informática  | Pedro Calderaro Martins |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-calderaro-175462262/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun) |
+|  Designer Gráfico  | Matheus Gustavo Oliveira Cardoso |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theuscards) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1) |
+|  Administradora de Dados  | Graziele Cristina de Almeida Santos |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graziele-santos-38407225a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GrazieleAlmeida) |
+|  Analista de Dados  | Denner Miguel de Andrade Lima |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denner-lima-874b65216/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dmiguelima) |
 
 
