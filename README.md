@@ -52,8 +52,6 @@ Adicionar video e documentos nessa seção
   > Power BI
 
  ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
 - Github
 - Jira
 - Figma
@@ -61,20 +59,16 @@ Exemplos:
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
  ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- 5W2H
-- Scrum
-- 
-[![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
+- [Backlog](https://youtu.be/Ipg6Ox6qlC8)
+- [5W2H](https://youtu.be/M4dNnrcUq9s)
+- [Scrum](https://youtu.be/HlmiVz0SqNQ)
 
 # Cronograma das Sprints
 
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+## Sprint 0
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/09c5b552-5ec5-4bab-9b2e-90b3503a6f64)
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+
 
 # Backlog do produto
   
