@@ -96,8 +96,10 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+## Sprint 0
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/fe5fd30c-014c-48ab-b28e-bdb23b2b7ce3)
 
+## Sprint 1
 
 ## Sprint 0. Concepção
 - [x] Criação e organização do Github;
