@@ -69,7 +69,9 @@ Adicionar video e documentos nessa seção
 ![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/09c5b552-5ec5-4bab-9b2e-90b3503a6f64)
 
 ## Sprint 1
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/fe39eff1-dde1-4d82-8c9f-7dba8e5abbff)
 
+## Sprint 2
 
 # Backlog do produto
   
@@ -100,6 +102,9 @@ User stories
 ![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/fe5fd30c-014c-48ab-b28e-bdb23b2b7ce3)
 
 ## Sprint 1
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/d0005fc5-2d38-4302-889f-8aa3513023e4)
+
+## Sprint 2
 
 ## Sprint 0. Concepção
 - [x] Criação e organização do Github;
