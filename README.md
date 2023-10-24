@@ -122,10 +122,22 @@ Requisitos não funcionais
 - [x] Estudo e compreensão da base de dados (Equipe);
 - [x] Nivelamento sobre o objetivo do trabalho (Equipe);
 - [x] Atualização da apresentação da Sprint;
-- [x] Reunião Final - Sprint 1;
+- [x] Reunião Final - Sprint 1.
      
 ## Sprint 2. Implementação
-
+- [ ] Relacionar as características das 5 cidades analisadas;
+- [ ] Pesquisa sobre indicadores de qualidade utilizados na logística (exportação);
+- [ ] Análise sobre o impacto que cada empresa Jhj gera nacionalmente;
+- [ ] Criar análise das 5 principais Cidades;
+- [ ] Motivos exportação, e ligações do próprio com a economia do estado, modal de escoamento e infraestrutura;
+- [ ] Aprofundamento das análises (toda Equipe);
+- [ ] Extrair base de dados para comparação de fluxo do produto específico;
+- [ ] Identificar características sobre como é feita a movimentações do Tylenol ( Jhj Manaus);
+- [ ] Atualização do GitHub;
+- [ ] Atualização da documentação;
+- [ ] Pesquisa sobre o impacto econômico das 5 principais cidades no estado de SP;
+- [ ] Criar Mapa SP;
+- [ ] Reunião Final - Sprint 2.
       
 ## Sprint 3. Operacionalização
 
