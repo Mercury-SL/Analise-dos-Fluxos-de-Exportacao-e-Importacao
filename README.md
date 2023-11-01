@@ -41,13 +41,7 @@ O projeto tem como objetivo criar uma base de dados relacional e dashboard que p
 # Funcionalidades e registros das sprints
 
 ### Sprint 1 - Power BI
-* Tela de exportação
-  ![EX2](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/8d733712-704a-46d4-b957-2fe2811bd776)
-* Tela de importação
-  ![IM](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/aec7634b-ee9d-4e01-8292-d84a84dc840b)
-* Tela da roterização
-  ![mapa2](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/efc763e0-1055-4557-8082-08a0515ce6d8)
-
+* 
 ## Tecnologias Utilizadas
   ### Produto 
   > Power BI
