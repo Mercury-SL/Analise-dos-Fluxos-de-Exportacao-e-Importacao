@@ -41,7 +41,10 @@ O projeto tem como objetivo criar uma base de dados relacional e dashboard que p
 # Funcionalidades e registros das sprints
 
 ### Sprint 1 - Power BI
-* 
+<div align="left">
+ <img src="https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/7eedb754-cb42-4cfb-b89c-63c34de2bc20.GIF" width="700px") />
+</div>
+
 ## Tecnologias Utilizadas
   ### Produto 
   > Power BI
