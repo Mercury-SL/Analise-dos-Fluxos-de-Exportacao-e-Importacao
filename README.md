@@ -24,7 +24,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 04/09/2023 | Concluido | [Ver Relatório]() | 
 |00| 25/09/2023 | Concluido | [Ver Relatório](https://drive.google.com/file/d/1ZfnrOJKk24oGR34gK8Uj0OwWRXzv2n63/view?usp=sharing) | 
 |01| 16/10/2023 | Concluido |[Ver Relatório](https://docs.google.com/document/d/17rVMF59BHlISqLGDFZw5KvRkOcpOeGOM/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|02| 06/11/2023 | Em progresso |[Ver Relatório]() | 
+|02| 06/11/2023 | Concluido |[Ver Relatório](https://docs.google.com/document/d/1tvU5aLkfBvy--NqJwMP7Vm79eDefW-Yb/edit?usp=sharing&ouid=108673961009193530812&rtpof=true&sd=true) | 
 |03| 27/11/2023 | A fazer |[Ver Relatório]()  | 
 |Feira de Soluções|12/12/2023 | A fazer |[Ver Relatório]() | 
 
@@ -75,6 +75,7 @@ O projeto tem como objetivo criar uma base de dados relacional e dashboard que p
 ![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/fe39eff1-dde1-4d82-8c9f-7dba8e5abbff)
 
 ## Sprint 2
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/8252ea38-4eb2-4b18-9b01-67af67be2a62)
 
 # Backlog do produto
  
@@ -99,6 +100,8 @@ Requisitos não funcionais
 ![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/d0005fc5-2d38-4302-889f-8aa3513023e4)
 
 ## Sprint 2
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/8aa55c2a-dec9-46d0-87cb-6affaf7f202c)
+
 
 ## Sprint 0. Concepção
 - [x] Criação e organização do Github;
@@ -128,19 +131,19 @@ Requisitos não funcionais
 - [x] Reunião Final - Sprint 1.
      
 ## Sprint 2. Implementação
-- [ ] Relacionar as características das 5 cidades analisadas;
-- [ ] Pesquisa sobre indicadores de qualidade utilizados na logística (exportação);
-- [ ] Análise sobre o impacto que cada empresa Jhj gera nacionalmente;
-- [ ] Criar análise das 5 principais Cidades;
-- [ ] Motivos exportação, e ligações do próprio com a economia do estado, modal de escoamento e infraestrutura;
-- [ ] Aprofundamento das análises (toda Equipe);
-- [ ] Extrair base de dados para comparação de fluxo do produto específico;
-- [ ] Identificar características sobre como é feita a movimentações do Tylenol ( Jhj Manaus);
-- [ ] Atualização do GitHub;
-- [ ] Atualização da documentação;
-- [ ] Pesquisa sobre o impacto econômico das 5 principais cidades no estado de SP;
-- [ ] Criar Mapa SP;
-- [ ] Reunião Final - Sprint 2.
+- [x] Relacionar as características das 5 cidades analisadas;
+- [x] Pesquisa sobre indicadores de qualidade utilizados na logística (exportação);
+- [x] Análise sobre o impacto que cada empresa Jhj gera nacionalmente;
+- [x] Criar análise das 5 principais Cidades;
+- [x] Motivos exportação, e ligações do próprio com a economia do estado, modal de escoamento e infraestrutura;
+- [x] Aprofundamento das análises (toda Equipe);
+- [x] Extrair base de dados para comparação de fluxo do produto específico;
+- [x] Identificar características sobre como é feita a movimentações do Tylenol ( Jhj Manaus);
+- [x] Atualização do GitHub;
+- [x] Atualização da documentação;
+- [x] Pesquisa sobre o impacto econômico das 5 principais cidades no estado de SP;
+- [x] Criar Mapa SP;
+- [x] Reunião Final - Sprint 2.
       
 ## Sprint 3. Operacionalização
 
