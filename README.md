@@ -45,6 +45,11 @@ O projeto tem como objetivo criar uma base de dados relacional e dashboard que p
  <img src="https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/7eedb754-cb42-4cfb-b89c-63c34de2bc20.GIF" width="700px") />
 </div>
 
+### Sprint 2 - Power BI
+<div align="left">
+ <img src="https://github.com/Mercury-SL/Mapeamento-Setorial-RMVALE/assets/128007093/7e2f3147-2d96-4714-8889-aedee8eea641.GIF" width="700px") />
+</div>
+
 ## Tecnologias Utilizadas
   ### Produto 
   > Power BI
