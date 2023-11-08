@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |00| 25/09/2023 | Concluido | [Ver Relatório](https://drive.google.com/file/d/1ZfnrOJKk24oGR34gK8Uj0OwWRXzv2n63/view?usp=sharing) | 
 |01| 16/10/2023 | Concluido |[Ver Relatório](https://docs.google.com/document/d/17rVMF59BHlISqLGDFZw5KvRkOcpOeGOM/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
 |02| 06/11/2023 | Concluido |[Ver Relatório](https://docs.google.com/document/d/1tvU5aLkfBvy--NqJwMP7Vm79eDefW-Yb/edit?usp=sharing&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|03| 27/11/2023 | A fazer |[Ver Relatório]()  | 
+|03| 27/11/2023 | Em produção |[Ver Relatório]()  | 
 |Feira de Soluções|12/12/2023 | A fazer |[Ver Relatório]() | 
 
 # Equipe
