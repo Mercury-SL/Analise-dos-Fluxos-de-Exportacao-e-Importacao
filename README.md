@@ -146,7 +146,16 @@ Requisitos não funcionais
 - [x] Reunião Final - Sprint 2.
       
 ## Sprint 3. Operacionalização
-
+- [ ] Criar telas no dashboard comparativos dos novos produtos a serem analisados;
+- [ ] Criar Fluxo logístico das cargas mais exportadas do Estado de São Paulo;
+- [ ] Aprimorar a Análise dos modais utilizados;
+- [ ] Aprimoramento do produto final;
+- [ ] Isolar os produtos mais exportados do estado de são paulo no banco de dados;
+- [ ] Atualizar a documentação;
+- [ ] Atualizar o Github;
+- [ ] Aprimorar a visualização das páginas do Tylenol;
+- [ ] Nivelamento final dos conhecimentos;
+- [ ] Reunião Final - Sprint 3.
 
 # Competências desenvolvidas
 
