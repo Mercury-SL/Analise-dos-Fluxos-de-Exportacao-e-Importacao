@@ -25,8 +25,8 @@ Sprint | Previsão | Status| Histórico|
 |00| 25/09/2023 | Concluido | [Ver Relatório](https://drive.google.com/file/d/1ZfnrOJKk24oGR34gK8Uj0OwWRXzv2n63/view?usp=sharing) | 
 |01| 16/10/2023 | Concluido |[Ver Relatório](https://docs.google.com/document/d/17rVMF59BHlISqLGDFZw5KvRkOcpOeGOM/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
 |02| 06/11/2023 | Concluido |[Ver Relatório](https://docs.google.com/document/d/1tvU5aLkfBvy--NqJwMP7Vm79eDefW-Yb/edit?usp=sharing&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|03| 27/11/2023 | Em produção |[Ver Relatório]()  | 
-|Feira de Soluções|12/12/2023 | A fazer |[Ver Relatório]() | 
+|03| 27/11/2023 | Concluido |[Ver Relatório]()  | 
+|Feira de Soluções|12/12/2023 | Em produção |[Ver Relatório]() | 
 
 # Equipe
 <div align="center">
@@ -82,6 +82,9 @@ O projeto tem como objetivo criar uma base de dados relacional e dashboard que p
 ## Sprint 2
 ![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/8252ea38-4eb2-4b18-9b01-67af67be2a62)
 
+## Sprint 3
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/a449c351-972e-4fec-b5c3-f4d50d8c6f64)
+
 # Backlog do produto
  
 # Regras de Negócio
@@ -107,6 +110,8 @@ Requisitos não funcionais
 ## Sprint 2
 ![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/8aa55c2a-dec9-46d0-87cb-6affaf7f202c)
 
+## Sprint 3
+![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/dbef9c1f-a5ed-440a-9ca2-261ad2806aac)
 
 ## Sprint 0. Concepção
 - [x] Criação e organização do Github;
@@ -151,16 +156,16 @@ Requisitos não funcionais
 - [x] Reunião Final - Sprint 2.
       
 ## Sprint 3. Operacionalização
-- [ ] Criar telas no dashboard comparativos dos novos produtos a serem analisados;
-- [ ] Criar Fluxo logístico das cargas mais exportadas do Estado de São Paulo;
-- [ ] Aprimorar a Análise dos modais utilizados;
-- [ ] Aprimoramento do produto final;
-- [ ] Isolar os produtos mais exportados do estado de são paulo no banco de dados;
-- [ ] Atualizar a documentação;
-- [ ] Atualizar o Github;
-- [ ] Aprimorar a visualização das páginas do Tylenol;
-- [ ] Nivelamento final dos conhecimentos;
-- [ ] Reunião Final - Sprint 3.
+- [x] Criar telas no dashboard comparativos dos novos produtos a serem analisados;
+- [x] Criar Fluxo logístico das cargas mais exportadas do Estado de São Paulo;
+- [x] Aprimorar a Análise dos modais utilizados;
+- [x] Aprimoramento do produto final;
+- [x] Isolar os produtos mais exportados do estado de são paulo no banco de dados;
+- [x] Atualizar a documentação;
+- [x] Atualizar o Github;
+- [x] Aprimorar a visualização das páginas do Tylenol;
+- [x] Nivelamento final dos conhecimentos;
+- [x] Reunião Final - Sprint 3.
 
 # Competências desenvolvidas
 
