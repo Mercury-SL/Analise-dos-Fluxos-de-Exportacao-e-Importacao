@@ -86,7 +86,8 @@ O projeto tem como objetivo criar uma base de dados relacional e dashboard que p
 ![image](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/a449c351-972e-4fec-b5c3-f4d50d8c6f64)
 
 # Backlog do produto
- 
+![sprints](https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/1da315dc-980a-4f3d-bee4-59f694d11b66)
+
 # Regras de Negócio
 Requisitos funcionais 
 - 1 tela com indicadores gerais de importação e exportação do Estado SP.
